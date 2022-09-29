@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HaideeCrowe, avid animal lover, thespian and techi
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on pipelines and machine learning projects
 - 📫 How to reach me ticatictock@gmail.com
 
